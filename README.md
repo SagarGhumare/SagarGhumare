@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I specialize in data analytics for the finance domain, leveraging tools like Excel, Power BI, Python, and SQL to provide actionable insights. My aim is to automate workflows, optimize financial processes, and drive business performance through data-driven solutions.
 
-![ProfileViews](https://komarev.com/ghpvc/?username=SagarGhumare]&color=blueviolet)
+![ProfileViews](https://komarev.com/ghpvc/?username=SagarGhumare&color=blueviolet)
 
 ## About Me
 
