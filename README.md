@@ -1,5 +1,5 @@
 # Hi there, 
-  I'm Sagar Ghumare ! 👋
+# I'm Sagar Ghumare ! 👋
 
 Welcome to my GitHub profile! I specialize in data analytics for the finance domain, leveraging tools like Excel, Power BI, Python, and SQL to provide actionable insights. My aim is to automate workflows, optimize financial processes, and drive business performance through data-driven solutions.
 
